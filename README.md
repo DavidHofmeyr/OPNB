@@ -5,5 +5,7 @@ To install:
 1. Download OPNB_1.0.tar
 2. From within R/Rstudio
    > install('OPNB_1.0.tar', type = 'source', repos = NULL)
+   > 
    > library(OPNB)
+   > 
    > help('OPNB-package')
